@@ -1,0 +1,19 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Helvetica, sans-serif, Arial;
+}
+
+body {
+
+        margin: 0 auto;
+        background-color: rgb(166, 160, 160);
+        background-image: url('img.jpg');
+        background-size: cover;
+        /* Adjust as needed */
+        background-repeat: repeat;
+        /* Adjust as needed */
+        background-position: center;
+        /* Adjust as needed */
+    }
+    
+    

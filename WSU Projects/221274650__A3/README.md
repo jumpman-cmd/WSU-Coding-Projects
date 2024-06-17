@@ -46,7 +46,7 @@ Number of years it is going to take: 53 year(s)
 The initial amount (negative number to exit): R-1
 
 ## File Structure
-There is a folder written A program, click on it then you will see a file written as "main", click on it and you will see the code for this project.
+There is a folder written "A program", click on it, then in that folder you will see a file named "main", click on it and you will see the code for this project.
 
 ### main.cpp
 The main C++ source file containing the implementation of the house price calculator.

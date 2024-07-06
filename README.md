@@ -18,6 +18,7 @@ The repository will include projects in various programming languages and on dif
 - Data Structures and Algorithms
 - Web Development Projects (HTML5, CSS3, and JavaScript)
 - Database Management Systems
+- And a few AI programs
 
 ## Adding New Projects
 As I find more of my old projects, I will add them to this repository. Each project will include:

@@ -8,7 +8,6 @@ During my time at Walter Sisulu University, I worked on numerous coding assignme
 
 In this repository, you will find:
 - Coding tasks I was able to recover
-- New projects I am working on
 - Descriptions and documentation for each project
 
 ## Contents

@@ -21,7 +21,7 @@ The repository will include projects in various programming languages and on dif
 
 ## Adding New Projects
 As I find more of my old projects, I will add them to this repository. Each project will include:
-- A description of the task or project
+- A description (README) of the task or project
 - The code files
 - Instructions on how to run or use the project
 

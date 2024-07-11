@@ -1,7 +1,7 @@
 # WSU-Coding-Projects
 
 ## Description
-This repository contains a collection of coding tasks and projects from my coursework at Walter Sisulu University. Unfortunately, my hard drive crashed, and I lost most of my projects. I will be adding the ones I can find.
+This repository contains a collection of coding tasks and projects from my coursework at Walter Sisulu University (WSU). Unfortunately, my hard drive crashed, and I lost most of my projects. I will be adding the ones I can find.
 
 ## About This Repository
 During my time at Walter Sisulu University, I worked on numerous coding assignments and projects. However, due to a hard drive failure, I have lost many of these files. I did not regularly use GitHub to back up my work, which has resulted in this loss. Moving forward, I will ensure to back up my work on GitHub to prevent such issues.

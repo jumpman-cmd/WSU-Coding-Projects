@@ -41,7 +41,7 @@ If you have any suggestions or improvements, feel free to fork this repository a
 If you have any questions or need further information, you can reach me at my personal email - codeks7407@gmail.com or here is my school email as well - 221274650@mywsu.ac.za.
 
 ### Conclusion
-This repository serves as a portfolio of my coding journey at Walter Sisulu University. It highlights the various programming languages and technologies I have learned and applied in my coursework. By uploading these projects to GitHub, I aim to showcase my skills to potential employers and collaborators. Additionally, it will help me stay organized and ensure that my work is securely backed up and easily accessible.
+This repository serves as a portfolio of my coding journey at WSU. It highlights the various programming languages and technologies I have learned and applied in my coursework. By uploading these projects to GitHub, I aim to showcase my skills to potential employers and collaborators. Additionally, it will help me stay organized and ensure that my work is securely backed up and easily accessible.
 
 I understand the importance of version control and regular backups now more than ever. This experience has taught me the value of platforms like GitHub in maintaining and sharing my work. Moving forward, I will use GitHub as my primary tool for managing my coding projects and assignments.
 

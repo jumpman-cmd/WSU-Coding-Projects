@@ -33,8 +33,6 @@ project-name/
 ├── README.md
 ├── src/
 │ └── main.java
-└── docs/
-└── report.pdf
 
 ## Contributions
 If you have any suggestions or improvements, feel free to fork this repository and submit a pull request. I appreciate any feedback and contributions.
